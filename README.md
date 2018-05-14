@@ -1,7 +1,6 @@
 ### Install before use
 
-pip install celery
-pip install redis
+pip install -r requirements.txt
 
 ### Redis
 
